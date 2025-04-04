@@ -12,6 +12,9 @@ label {
 #formcol1 li {
 	list-style: none;
   }
+#formcol1 input.reqfield {
+    background-color: #FF9; /* light yellow */
+}
   
 #wrapper {
 	width: 60%;
